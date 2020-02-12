@@ -1,7 +1,7 @@
 # Python-SQL-Login-Register
 Login &amp; Register in Python 3x, Base program for who want to create a Login &amp; Register System
 
-#HOW TO START ?
+# HOW TO START ?
 It's simple but..
 Before ALL you need to donwload mysql.connector...Find some guides on Internet Ex: (https://dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html)
 
