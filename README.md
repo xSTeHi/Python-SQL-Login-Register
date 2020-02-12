@@ -1,6 +1,9 @@
 # Python-SQL-Login-Register
 Login &amp; Register in Python 3x, Base program for who want to create a Login &amp; Register System
 
+# Editor
+To Run the program and edit the scripts i use PyCharm
+
 # HOW TO START ?
 It's simple but..
 Before ALL you need to donwload mysql.connector...Find some guides on Internet Ex: (https://dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html)
@@ -19,3 +22,9 @@ mydb = mysql.connector.connect(
 
 4) Check all scripts and edit the SQL strings in case if you have insert different variable names in the Database
 5) Ok perfect now Run the program and Enjoy my Login & Register with Python ! :D
+
+# Open Source Sofware
+Yes, you can download it and you can Edit whatever you want and implement this into your programs !
+
+# Language
+I made this in Italian, but soon will arrive the entire Translation in english...sorry for this mistakes...
