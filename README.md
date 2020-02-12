@@ -2,7 +2,7 @@
 Login &amp; Register in Python 3x, Base program for who want to create a Login &amp; Register System
 
 # Editor
-To Run the program and edit the scripts i use PyCharm
+To Run the program and edit the scripts i recommended you to use PyCharm
 
 # HOW TO START ?
 It's simple but..
